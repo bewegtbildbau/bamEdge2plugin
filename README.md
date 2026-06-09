@@ -27,13 +27,9 @@ Two model variants are embedded in the plugin: **bamEdge2A** and **bamEdge2B**, 
 
 I only compiled two versions.
 
-Linux Nuke 16.0v7
+[Linux Nuke 16.0v7](https://bewegtbildbau.de/bamEdge2/bamEdge2_linux_nuke16_0v7.zip)
 
-Download from here: coming soon
-
-Windows Nuke 17.0v3
-
-Download from here: coming soon
+Windows Nuke 17.0v3 coming soon
 
 ## Building
 
@@ -47,7 +43,7 @@ I would be happy to know of any other successful tests.
 
 - Nuke
 - Libtorch
-- The two model files: `bam_model_a.pt` and `bam_model_b.pt` ([download from Google Drive](https://drive.google.com/drive/folders/1jLq5of-f1rYdRJDo_uZhc05XVp1U3z-o?usp=sharing))
+- The two model files: [Download Models](https://bewegtbildbau.de/bamEdge2/models.zip)
 
 ### Linux
 
