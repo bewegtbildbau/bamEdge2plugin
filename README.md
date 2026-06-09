@@ -52,7 +52,7 @@ I would be happy to know of any other successful tests.
 You need whatever your Nuke version is using:
 https://learn.foundry.com/nuke/17.0v1/content/misc/studio_third_party_libraries.html
 
-2. [download](https://drive.google.com/drive/folders/1jLq5of-f1rYdRJDo_uZhc05XVp1U3z-o?usp=sharing) model files
+2. Download the two model files and extract them: [Download Models](https://bewegtbildbau.de/bamEdge2/models.zip)
 
 3. Configure and build
 ```bash
