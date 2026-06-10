@@ -23,21 +23,19 @@ Two model variants are embedded in the plugin: **bamEdge2A** and **bamEdge2B**, 
 - bE2_model_mask: the edge band passed to the model
 - bE2_transition_mask: the blend weight used for compositing
 
-## Install
+## Get the plugin
 
-I only compiled two versions.
+[BamEdge2 Nuke Plugin for Linux Nuke 16.0v7](https://bewegtbildbau.de/bamEdge2/bamEdge2_linux_nuke16_0v7.zip)
 
-[Linux Nuke 16.0v7](https://bewegtbildbau.de/bamEdge2/bamEdge2_linux_nuke16_0v7.zip)
+I tested this version on a laptop running on **Linux** without any GPU in Nuke 16.
 
-Windows Nuke 17.0v3 coming soon
+[BamEdge2 Nuke Plugin for Windows Nuke 17.0v3](https://bewegtbildbau.de/bamEdge2/bamEdge2_windows_17_0v2.zip)
+
+I tested this version on a workstation with a RTX 3090 on **Windows** using Nuke 17.
+
+These are the only versions I compiled. If you want anything else you have to build it yourself. :)
 
 ## Building
-
-I tested it on a laptop running on **Linux** without any GPU in Nuke 16.
-
-I also tested it on a workstation with a RTX 3090 on **Windows** using Nuke 17.
-
-I would be happy to know of any other successful tests.
 
 ### Dependencies
 
