@@ -6,7 +6,9 @@ My idea was to build something that is quick enough to use in a normal Nuke comp
 
 The model was trained specifically on synthetic compositing data (masked subjects over black).
 
+Before:
 ![Before:](before.jpg)
+After:
 ![After:](after.jpg)
 
 Images from [Tears of Steel](https://mango.blender.org/)
