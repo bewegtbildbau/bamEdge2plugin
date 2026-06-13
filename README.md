@@ -6,6 +6,11 @@ My idea was to build something that is quick enough to use in a normal Nuke comp
 
 The model was trained specifically on synthetic compositing data (masked subjects over black).
 
+![Before:](before.jpg)
+![After:](after.jpg)
+
+Images from [Tears of Steel](https://mango.blender.org/)
+
 ## How it works
 
 **Fair warning:** I put a lot of "manual" work into the data augmentation and fine tuning. BUT I vibecoded the nuke plugin itself.
