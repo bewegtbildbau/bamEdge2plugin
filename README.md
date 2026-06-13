@@ -1,6 +1,6 @@
 # bamEdge2
 
-Fine-tuned [LaMa](https://github.com/advimman/lama) for fixing compositing edges in Nuke.
+Fine-tuned [LaMa](https://github.com/advimman/lama) for fixing bad edges in [The Foundry Nuke](https://www.foundry.com/products/nuke-family/nuke).
 
 My idea was to build something that is quick enough to use in a normal Nuke compositing workflow. It is not meant to fix all broken edges. It is meant as an additional tool that might help artists to fix a bad edge. As LaMa is using FFC it is better on repetitive structures.
 
